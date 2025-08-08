@@ -1,0 +1,2 @@
+# e-ticaret
+ilk deneme
